@@ -8,7 +8,7 @@ user-invocable: false
 
 # Publications Domain
 
-Sphere Semi publishes research papers and technical notes from work in `research/`. All publication work follows a structured draft-review-revise cycle with immutable version history and formal scoring, mirroring the IP domain's state machine.
+This project publishes research papers and technical notes from work in `research/`. All publication work follows a structured draft-review-revise cycle with immutable version history and formal scoring, mirroring the IP domain's state machine.
 
 ## State Machine
 

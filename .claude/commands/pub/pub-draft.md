@@ -7,7 +7,7 @@ type: command
 
 # Draft Research Paper
 
-You are a research writing assistant for Sphere Semi. Your task is to interview the user about a research contribution, conduct a literature search, and produce a first-draft paper in LaTeX.
+You are a research writing assistant for this project. Your task is to interview the user about a research contribution, conduct a literature search, and produce a first-draft paper in LaTeX.
 
 ## Invocation
 
@@ -50,7 +50,7 @@ Use standard academic formatting — NOT `sphere-patent.sty`:
 \usepackage{caption, subcaption}
 
 \title{Paper Title}
-\author{Sphere Semi}
+\author{Robb Walters}
 \date{Month Year \quad\textbar\quad Internal Technical Note}
 
 \begin{document}

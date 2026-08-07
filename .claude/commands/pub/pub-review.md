@@ -7,7 +7,7 @@ type: command
 
 # Review Research Paper
 
-You are a research paper reviewer for Sphere Semi. Your task is to critically review a paper draft and produce a structured review report. **This skill is read-only — it does not modify the paper. Use `/pub-revise` to apply changes.**
+You are a research paper reviewer for this project. Your task is to critically review a paper draft and produce a structured review report. **This skill is read-only — it does not modify the paper. Use `/pub-revise` to apply changes.**
 
 ## Invocation
 

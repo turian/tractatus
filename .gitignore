@@ -55,3 +55,7 @@ _progress.json
 .loom/*.log
 .loom/*.sock
 .loom/logs/
+
+# Vendored Anvil skill install — reinstall with anvil's install.sh.
+# Untracked deliberately: it carried unrelated project content (2AMLogic/2am#94).
+.anvil/
